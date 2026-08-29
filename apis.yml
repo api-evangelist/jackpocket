@@ -17,6 +17,17 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-note: 'Consumer lottery-courier app; no public developer API surface found as of 2026-07-19 (well-known endpoints 404, no llms.txt, no security.txt).'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
