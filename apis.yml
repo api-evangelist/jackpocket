@@ -57,6 +57,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/draftkings/
+  name: DraftKings
+  x-relationship: acquired
+  x-evidence: "Founded in 2013 in New York City by Peter Sullivan, the company was acquired by DraftKings in 2024."
 - type: Website
   url: https://jackpocket.com
 - type: Blog
